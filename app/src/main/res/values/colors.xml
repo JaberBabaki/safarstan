@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="default_indicator_color_selected">#eeee</color>
+    <color name="default_indicator_color_unselected">#66eeeeee</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorToolbar">#818d9d</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="progress_gray">#FFD8D8D8</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="default_blue_light">#ff33b5e5</color>
+    <color name="color_status_bar">#4D555E</color>
+    <color name="color_status_bar_details">#908B9DAF</color>
+    <color name="color_cur">#57A73A</color>
+    <color name="colorHambergrMenue">#ffffff</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#FA985F</color>
+    <color name="dot_dark_screen4">#FA985F</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#FF873D</color>
+    <color name="dot_light_screen4">#FF873D</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="bb_inActiveBottomBarItemColor">#747474</color>
+    <color name="bb_darkBackgroundColor">#212121</color>
+    <color name="bb_tabletRightBorderDark">#505050</color>
+
+</resources>
